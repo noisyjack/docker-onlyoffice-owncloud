@@ -14,7 +14,7 @@ Document Server (distributed as ONLYOFFICE Docs starting from version 6.0) and o
 1. Get the latest version of this repository running the command:
 
     ```
-    git clone --recursive https://github.com/ONLYOFFICE/docker-onlyoffice-owncloud
+    git clone --recursive https://github.com/noisyjack/docker-onlyoffice-owncloud
     cd docker-onlyoffice-owncloud
     git submodule update --init --remote --recursive
     ```
